@@ -24,6 +24,8 @@ Content written by [Kera Cudmore](https://github.com/kera-cudmore) as part of a 
 * [Nice Extras & Other Interesting Tools](#Nice-Extras-&-Other-Interesting-Tools)
 * [Further Reading](#Further-Reading)
 * [Credits](#Credits)
+  * [Media](#media)
+  * [Acknowledgments](#acknowledgments)
 
 - - -
 
@@ -201,3 +203,7 @@ Nice extras we could include in the README:
 • All screenshots of code used in this README were taken by myself.
 
 • [README hero image](https://pikwizard.com/photo/computer-laptop-monitor/928d43e8628d6b5f52882557f3ff7f9c)
+
+### Acknowledgments
+
+* [Ed](https://github.com/Edb83) - For letting me know about the heading links feature
