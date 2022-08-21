@@ -4,7 +4,7 @@ Add an image of the finished site here. I like to use [amiresponsive](https://ui
 
 Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
 
-View an example of this section [here](https://github.com/kera-cudmore/Found-In-Translation/blob/main/TESTING.md)
+👩🏻‍💻 View an example of this section [here](https://github.com/kera-cudmore/Found-In-Translation/blob/main/TESTING.md)
 
 ---
 
