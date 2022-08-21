@@ -1,5 +1,7 @@
 # CREATING YOUR FIRST README FOR MILESTONE 1
 
+![Planning with a laptop and notebooks](documentation/hero-image.jpeg)
+
 Content written by [Kera Cudmore](https://github.com/kera-cudmore) as part of a webinar for the Milestone 1 Channel Lead Program with the Code Institute.
 
 ## CONTENTS
@@ -17,6 +19,7 @@ Content written by [Kera Cudmore](https://github.com/kera-cudmore) as part of a 
   * [Tables](#Tables)
 * [Nice Extras & Other Interesting Tools](#Nice-Extras-&-Other-Interesting-Tools)
 * [Further Reading](#Further-Reading)
+* [Credits](#Credits)
 
 - - -
 
@@ -69,6 +72,10 @@ You can paste a link into your README and it will display as a link, https://www
 My preferred way to add a link which addresses both these issues is to make a link the following way: place the name of the link that will be visible in the README enclosed in square brackets followed by the link enclosed in parentheses. [View My GitHub Profile Here](https://www.github.com )
 
   ![Link Example](documentation/link-example.png)
+
+You can also create a link with headings. When you create a heading, GitHub will generate an ID based on this. This is really useful if you then want to create a link to that heading within your README.  (A good example of this is the contents section.) They are very similar to a link - We need to put the text that will be displayed into the square brackets and then within the parentheses we use a hash followed by the heading - note that we can't use spaces so these need to be changed to a dash)
+
+![Heading Links Example](documentation/heading-links.png)
 
 ### Inserting Images
 
@@ -182,3 +189,11 @@ Nice extras we could include in the README:
 
 * [Markdown Syntax](https://www.markdownguide.org/basic-syntax/) - This site is really comprehensive on all the different things you can do in Markdown.
 * [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables) - This may be useful to have a play around with to better understand how tables work in Markdown.
+
+## Credits
+
+### Media
+
+• All screenshots of code used in this README were taken by myself.
+
+• [Planning image with laptop & notebooks](https://pikwizard.com/photo/computer-laptop-monitor/928d43e8628d6b5f52882557f3ff7f9c)
