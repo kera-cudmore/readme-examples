@@ -2,7 +2,11 @@
 
 ![Planning with a laptop and notebooks](documentation/hero-image.jpeg)
 
-Content written by [Kera Cudmore](https://github.com/kera-cudmore) as part of a webinar for the Milestone 1 Channel Lead Program with the Code Institute.
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat=markdown&logoColor=white)
+
+![GitHub contributors](https://img.shields.io/github/contributors/kera-cudmore/readme-examples?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/kera-cudmore/readme-examples?style=flat)  ![GitHub Repo stars](https://img.shields.io/github/stars/kera-cudmore/readme-examples?style=social)
+
+Content written by [Kera Cudmore](https://github.com/kera-cudmore) as part of a webinar for the Milestone 1 Channel Lead Program with the Code Institute, September 2022.
 
 ## CONTENTS
 
