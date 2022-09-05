@@ -51,7 +51,7 @@ By incorporating this step into the planning stage of your project you will have
 
 ## README Examples
 
-I have included an example README (and TESTING.md) file for you to look over to get an idea of the layout of a README and what should be included. I have based this off the README's I have created for my own projects, however I would urge you to make sure that you go through your course criteria for your project to make sure that you include everything required in your own README, as the requirements may change at any point.
+I have included examples of a [README.md](milestone1-readme.md) and [TESTING.md](milesstone1-testing.md) for you to look over to get an idea of how you can layout your files and what should be included. I have based this off the README's I have created for my own projects, however I would urge you to make sure that you go through your course criteria for your project to make sure that you include everything required in your own README, as the requirements may change at any point.
 
 - - -
 
