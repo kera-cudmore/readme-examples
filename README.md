@@ -10,20 +10,20 @@ Content written by [Kera Cudmore](https://github.com/kera-cudmore) as part of a 
 
 ## CONTENTS
 
-* [Whats A README?](#Whats-a-README?)
-* [What Makes a Good README?](#What-Makes-a-Good-README?)
-* [README Examples](#README-Examples)
-* [How to Write Your README](#How-to-Write-Your-README)
-  * [Headings](#Headings)
-  * [Links](#Links)
-  * [Inserting Images](#Inserting-Images)
-  * [Italic, Bold & Code](#Italic,-Bold-&-Code)
-  * [Strikethrough & Bullet Points](#Strikethrough-&-Bullet-Points)
-  * [Code Blocks](#Code-Blocks)
-  * [Tables](#Tables)
-* [Nice Extras & Other Interesting Tools](#Nice-Extras-&-Other-Interesting-Tools)
-* [Further Reading](#Further-Reading)
-* [Credits](#Credits)
+* [Whats A README?](#whats-a-readme)
+* [What Makes a Good README?](#what-makes-a-good-readme)
+* [README Examples](#readme-examples)
+* [How to Write Your README](#how-to-write-your-readme)
+  * [Headings](#headings)
+  * [Links](#links)
+  * [Inserting Images](#inserting-images)
+  * [Italic, Bold & Code](#italic-bold-and-code)
+  * [Strikethrough & Bullet Points](#strikethrough--bullet-points)
+  * [Code Blocks](#code-blocks)
+  * [Tables](#tables)
+* [Nice Extras & Other Interesting Tools](#nice-extras--other-interesting-tools)
+* [Further Reading](#further-reading)
+* [Credits](#credits)
   * [Media](#media)
   * [Acknowledgments](#acknowledgments)
 
@@ -73,7 +73,7 @@ To create a heading in Markdown you use a hash symbol (#) followed by a space an
 
 Links are also really useful in Markdown, and are really simple to write. There are two ways to include links in your README:  
 
-You can paste a link into your README and it will display as a link, https://www.github.com/kera-cudmore - but these can throw a markdown lint error, look a bit messy especially if the link is rather lengthy, and sometimes the URL address doesn't make it clear as to what the link redirects to.
+You can paste a link into your README and it will display as a link, <https://www.github.com/kera-cudmore> - but these can throw a markdown lint error, look a bit messy especially if the link is rather lengthy, and sometimes the URL address doesn't make it clear as to what the link redirects to.
 
 My preferred way to add a link which addresses both these issues is to make a link the following way: place the name of the link that will be visible in the README enclosed in square brackets followed by the link enclosed in parentheses. [View My GitHub Profile Here](https://www.github.com )
 
@@ -114,6 +114,14 @@ When using images in your README, its good practice to compress the image first 
     * Another Nested Bullet Point
 
 ![Strikethrough & Bullet Point Example](documentation/strikethrough-bullet-example.png)
+
+To create a numbered list we simply put a number followed by a full stop, then a space before the content.
+
+1. First item
+2. Second item
+3. Third Item
+
+![Numbered list example code](documentation/numbered-list-example.png)
 
 ### Code Blocks
 
