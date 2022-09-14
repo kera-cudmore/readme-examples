@@ -4,24 +4,24 @@ Add an image of the finished site here. I like to use [amiresponsive](https://ui
 
 Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
 
-👩🏻‍💻 View an example of this section [here](https://github.com/kera-cudmore/Found-In-Translation/blob/main/TESTING.md)
+👩🏻‍💻 View an example of this section [here](https://github.com/kera-cudmore/Found-In-Translation/blob/main/TESTING.md#found-in-translation----testing-documentation)
 
 ---
 
 ## CONTENTS
 
-* [AUTOMATED TESTING](#AUTOMATED-TESTING)
-  * [W3C Validator](#W3C-Validator)
-  * [Lighthouse](#Lighthouse)
-  * [WAVE](#WAVE)
+* [AUTOMATED TESTING](#automated-testing)
+  * [W3C Validator](#w3c-validator)
+  * [Lighthouse](#lighthouse)
+  * [WAVE](#wave)
 
-* [MANUAL TESTING](#MANUAL-TESTING)
-  * [Testing User Stories](#Testing-User-Stories)
-  * [Full Testing](#Full-Testing)
+* [MANUAL TESTING](#manual-testing)
+  * [Testing User Stories](#testing-user-stories)
+  * [Full Testing](#full-testing)
 
-* [BUGS](#BUGS)
-  * [Known Bugs](#Known-Bugs)
-  * [Solved Bugs](#Solved-Bugs)
+* [BUGS](#bugs)
+  * [Known Bugs](#known-bugs)
+  * [Solved Bugs](#solved-bugs)
 
 ---
 
@@ -33,19 +33,19 @@ The Automated Testing includes all the testing that is carried out by a program,
 
 The most popular HTML validator is [W3C](https://validator.w3.org/). There are two ways to validate the HTML for your first milestone - you can copy the live link for your site page and paste into the validate by URI field, or you can copy all the code for your page and paste this into the validate by direct input field.
 
-**URI Input**
+#### **URI Input**
 
 If you validate with your sites URL, you can run the validation and then copy the link from the address bar and insert the link here as your proof of validation.
 
-![W3C URI Validator](documentation/milestone1-testing/w3c-uri-validatation.png) 
+![W3C URI Validator](documentation/milestone1-testing/w3c-uri-validatation.png)
 
-**Direct Input**
+#### **Direct Input**
 
 If you validate with the code, you will need to screenshot the validation results and then link the image here.
 
 ![W3C Direct Input Validator](documentation/milestone1-testing/w3c-directinput-validation.png)
 
-**CSS Validation**
+#### **CSS Validation**
 
 CSS Validation can only be done by copying and pasting the CSS file contents into the direct input. Make sure that the checkbox for CSS is selected.
 

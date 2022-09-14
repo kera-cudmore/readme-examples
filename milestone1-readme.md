@@ -12,44 +12,37 @@ Add a link to the live site here, for Milestone 1 this will be the GitHub Pages 
 
 ## contents
 
-* [User Experience](#User-Experience)
-  * [User Stories](#User-Stories)
+* [User Experience](#user-experience-ux)
+  * [User Stories](#user-stories)
 
-* [Design](#Design)
-  * [Colour Scheme](#Colour-Scheme)
-  * [Typography](#Typography)
-  * [Imagery](#Imagery)
-  * [Wireframes](#Wireframes)
+* [Design](#design)
+  * [Colour Scheme](#colour-scheme)
+  * [Typography](#typography)
+  * [Imagery](#imagery)
+  * [Wireframes](#wireframes)
 
-* [Features](#Features)
+* [Features](#features)
   * [General Features on Each Page](#general-features-on-each-page)
   * [Future Implementations](#futute-implementations)
-  * [Accessibility](#Accessibility)
+  * [Accessibility](#accessibility)
 
-* [Technologies Used](#Technologies-Used)
-  * [Languages Used](#Languages-Used)
-  * [Frameworks, Libraries & Programs Used](#Frameworks,-Libraries-&-Programs-Used)
+* [Technologies Used](#technologies-used)
+  * [Languages Used](#languages-used)
+  * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
 
-* [Deployment & Local Development](#Deployment=&-Local-Development)
-  * [Deployment](#Deployment)
-  * [Local Development](#Local-Development)
-    * [How to Fork](#How-to-Fork)
-    * [How to Clone](#How-to-Clone)
+* [Deployment & Local Development](#deployment--local-development)
+  * [Deployment](#deployment)
+  * [Local Development](#local-development)
+    * [How to Fork](#how-to-fork)
+    * [How to Clone](#how-to-clone)
 
-* [Testing](#Testing)
-  * [W3C Validator](#W3C-Validator)
-  * [Solved Bugs](#Solved-Bugs)
-  * [Known Bugs](#Known-Bugs)
-  * [Testing User Stories](#Testing-User-Stories)
-  * [Lighthouse](#Lighthouse)
-  * [WAVE Testing](#WAVE-Testing)
-  * [Full Testing](#Full-Testing)
+* [Testing](#testing)
 
-* [Credits](#Credits)
-  * [Code Used](#Code-Used)
-  * [Content](#Content)
-  * [Media](#Media)
-  * [Acknowledgments](#Acknowledgements)
+* [Credits](#credits)
+  * [Code Used](#code-used)
+  * [Content](#content)
+  * [Media](#media)
+  * [Acknowledgments](#acknowledgments)
 
 ---
 
