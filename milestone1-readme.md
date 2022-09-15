@@ -12,7 +12,7 @@ If you want to add optional shields.io badges to your README, I like to add them
 
 ---
 
-## contents
+## CONTENTS
 
 * [User Experience](#user-experience-ux)
   * [User Stories](#user-stories)
