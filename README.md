@@ -227,7 +227,7 @@ Nice extras we could include in the README:
 
 • All screenshots of code used in this README were taken by myself from my own milestone project repositories or Code Institute hackathon projects I have participated in.
 
-• [README hero image](https://pikwizard.com/photo/computer-laptop-monitor/928d43e8628d6b5f52882557f3ff7f9c)
+• [README hero image](https://www.slidescarnival.com/aliena-free-presentation-template/4597) - Slide template from Slide Carnival
 
 ### Acknowledgments
 
