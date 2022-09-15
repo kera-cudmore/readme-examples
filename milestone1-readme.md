@@ -1,12 +1,14 @@
 # PROJECT NAME TO GO HERE
 
+👩🏻‍💻 View an example of this section [here](https://github.com/kera-cudmore/Bully-Book-Club#bully-book-club-website)
+
 Add a Blurb about the site here, what does it do, why did you build it?
 
 Add an image of the finished site here. I like to use [amiresponsive](https://ui.dev/amiresponsive) to get an image of my site on all device sizes, and amiresponsive allows you to click links on the page and scroll, so each device can show a different element of your site.
 
 Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
 
-👩🏻‍💻 View an example of this section [here](https://github.com/kera-cudmore/Bully-Book-Club#bully-book-club-website)
+If you want to add optional shields.io badges to your README, I like to add them to this section.
 
 ---
 
@@ -23,7 +25,7 @@ Add a link to the live site here, for Milestone 1 this will be the GitHub Pages 
 
 * [Features](#features)
   * [General Features on Each Page](#general-features-on-each-page)
-  * [Future Implementations](#futute-implementations)
+  * [Future Implementations](#future-implementations)
   * [Accessibility](#accessibility)
 
 * [Technologies Used](#technologies-used)
@@ -162,9 +164,9 @@ Use this part of the README to link to your TESTING.md file - you can view the e
 
 ## Credits
 
-The Credits section is where you can credit all the people and sources you used throughout your project.
-
 👩🏻‍💻 View an example of a completed Credits section [here](https://github.com/kera-cudmore/BookWorm#Credits)
+
+The Credits section is where you can credit all the people and sources you used throughout your project.
 
 ### Code Used
 
