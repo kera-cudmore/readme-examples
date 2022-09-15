@@ -8,6 +8,8 @@
 
 Content written by [Kera Cudmore](https://github.com/kera-cudmore) as part of a webinar for the Milestone 1 Channel Lead Program with the Code Institute, September 2022.
 
+* Find the slide show for this webinar [here](https://docs.google.com/presentation/d/19_7r_To5bu7UjnZD87hrzWQi63Ij0YpaRH1XFnPZZe8/edit?usp=sharing)
+
 ## CONTENTS
 
 * [Whats A README?](#whats-a-readme)
@@ -203,15 +205,18 @@ Nice extras we could include in the README:
 
 * [Markdown Syntax](https://www.markdownguide.org/basic-syntax/) - This site is really comprehensive on all the different things you can do in Markdown.
 * [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables) - This may be useful to have a play around with to better understand how tables work in Markdown.
+* [Markdown Cheatsheet](https://github.com/atapas/markdown-cheatsheet) - A great markdown cheatsheet created by Atapas.
+* [Code Institute Sample README](https://github.com/Code-Institute-Solutions/SampleREADME) - Sample README created by the Code Institute
 
 ## Credits
 
 ### Media
 
-• All screenshots of code used in this README were taken by myself.
+• All screenshots of code used in this README were taken by myself from my own milestone project repositories or Code Institute hackathon projects I have participated in.
 
 • [README hero image](https://pikwizard.com/photo/computer-laptop-monitor/928d43e8628d6b5f52882557f3ff7f9c)
 
 ### Acknowledgments
 
-* [Ed](https://github.com/Edb83) - For letting me know about the heading links feature
+* [Ed](https://github.com/Edb83) - For letting me know about the heading links feature.
+* Nerd Alert - For cheering me on while creating this webinar and related documents.
