@@ -100,7 +100,7 @@ If there is a feature that appears on all pages of your site, include it here. E
 
 I then like to add a screenshot of each page of the site here, i use [amiresponsive](https://ui.dev/amiresponsive) which allows me to grab an image of the site as it would be displayed on mobile, tablet and desktop, this helps to show the responsiveness of the site.
 
-### Futute Implementations
+### Future Implementations
 
 What features would you like to implement in the future on your site? Would you like to add more pages, or create login functionality? Add these plans here.
 
@@ -114,7 +114,7 @@ Have you used icons and added aria-labels to enable screen readers to understand
 Have you ensured your site meets the minimum contrast requirements?
 Have you chosen fonts that are dyslexia/accessible friendly?
 
-Code Institute have an amazing channel for all things accessibilitiy (a11y-accessibility) I would highly recommend joining this channel as it contains a wealth of information about accessibility and what we can do as developers to be more inclusive.
+Code Institute have an amazing channel for all things accessibility (a11y-accessibility) I would highly recommend joining this channel as it contains a wealth of information about accessibility and what we can do as developers to be more inclusive.
 
 ## Technologies Used
 
