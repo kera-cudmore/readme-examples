@@ -163,7 +163,7 @@ Code Block Markdown Examples:
 
 ### Tables
 
-Tables can be a great way to display information in your README, but can be a bit fiddly to get your head around at first. Tables are created using the pipe symbol ( | ) which is placed on either side of the content, creating the sides of the table.
+Tables can be a great way to display information in your README, but can be a bit fiddly to get your head around at first. Tables are created using the pipe symbol ( | ) which is placed on either side of the content, creating the sides of the table. The first row of the table will be the headings for the table. This is then followed by a row with 3 dashes in each cell, and then you just add the contents for the table in the following rows.
 
 | Table Heading 1 | Table Heading 2 |
 | --- | --- |
@@ -175,6 +175,21 @@ Markdown for creating a table:
 
 ![Table Example](documentation/table-example.png)
 
+You can also justify the contents within a table! You simply need to add a colon to the second row of dashes - place the colon on the left of the dashes for left justification, to the right of the dashes for right justification and to center the text, place a colon on each side of the dashes.
+
+| Table Heading 1 for justification example | Table Heading 2 For justification example |
+| :--- | :--- |
+| Justify contents| To the Left |
+
+| Table Heading 1 for justification example | Table Heading 2 For justification example |
+| ---: | ---: |
+| Justify contents | To the Right |
+
+| Table Heading 1 for justification example | Table Heading 2 For justification example |
+| :---: | :---: |
+| Justify contents | In the Center |
+
+![Table Justification Example Code](documentation/table-justification-example.png)
  - - -
 
 ## Nice Extras & Other Interesting Tools
@@ -219,4 +234,6 @@ Nice extras we could include in the README:
 ### Acknowledgments
 
 * [Ed](https://github.com/Edb83) - For letting me know about the heading links feature.
-* Nerd Alert - For cheering me on while creating this webinar and related documents.
+* [Dave](https://github.com/daveyjh) - For letting me know about table justification in markdown.
+* Nerd Alert - For cheering me on while creating this webinar, and for proof-reading my documents.
+* A big thank you to Jim at Code Institute for the opportunity to be a channel lead for the Milestone 1 slack channel.
