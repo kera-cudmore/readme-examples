@@ -2,7 +2,7 @@
 
 ![Creating your first README hero image](documentation/hero.png)
 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat=markdown&logoColor=white) ![GitHub contributors](https://img.shields.io/github/contributors/kera-cudmore/readme-examples?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/kera-cudmore/readme-examples?style=flat)  ![GitHub Repo stars](https://img.shields.io/github/stars/kera-cudmore/readme-examples?style=social)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat=markdown&logoColor=white) ![GitHub contributors](https://img.shields.io/github/contributors/kera-cudmore/readme-examples?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/kera-cudmore/readme-examples?style=flat)  ![GitHub Repo stars](https://img.shields.io/github/stars/kera-cudmore/readme-examples?style=social)  ![GitHub forks](https://img.shields.io/github/forks/kera-cudmore/readme-examples?style=social)
 
 So you're starting to think about your first milestone project, and are brainstorming ideas - but have you thought about your README? This repository (and accompanying webinar) are an introduction to creating your first README - covering what to include, why you need one and how to write it.
 
