@@ -8,7 +8,7 @@ Add an image of the finished site here. I like to use [amiresponsive](https://ui
 
 Add a link to the live site here, for Milestone 1 this will be the GitHub Pages Link from when you deployed the site.
 
-If you want to add optional shields.io badges to your README, I like to add them to this section.
+If you want to add optional [shields.io](https://shields.io) badges to your README, I like to add them to this section.
 
 ---
 
