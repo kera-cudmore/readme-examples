@@ -1,8 +1,8 @@
-# Resources
+![Resources Banner](documentation/resources/resources.png)
 
 A list of resources that may be useful when completing your README.
 
-## Contents
+# Contents
 
 * [Badges](#badges)
 * [Royalty Free Resources](#royalty-free-resources)
@@ -49,8 +49,7 @@ A list of resources that may be useful when completing your README.
 || [CSS Shake](https://elrumordelaluz.github.io/csshake/) | Some CSS classes to move your DOM! |
 || [Greensock](https://greensock.com/gsap/) | JavaScript animation built for professionals, GSAP is packed with features that make most other engines look like cheap toys. |
 | | [Loading.io](https://loading.io/css/) | Build Your Ajax Loading Icons, Animated Text and More with SVG / CSS / GIF / PNG ! |
-|| [Lottie Files](https://lottiefiles.com/?gclid=CjwKCAjww8mWBhABEiwAl6-2RS3WVMkAMbDT84_nKST9znN2UuMJ7vyJVKMAvlN3IuC44dIeSzVQGBoCW9YQAvD_BwE) | Lightweight, scalable animations for your
-website and apps. |
+|| [Lottie Files](https://lottiefiles.com/?gclid=CjwKCAjww8mWBhABEiwAl6-2RS3WVMkAMbDT84_nKST9znN2UuMJ7vyJVKMAvlN3IuC44dIeSzVQGBoCW9YQAvD_BwE) | Lightweight, scalable animations for your website and apps. |
 || [Magic Animations CSS](https://www.minimamente.com/project/magic/) | Magic CSS are a set of simple animations to include in your web or app project's. |
 || [Moving Letters](https://tobiasahlin.com/moving-letters/) |  Letter animation code. |
 || [Preloaders.net](https://icons8.com/preloaders/) | provides more than 1000 different animations, split into 18 categories including most widely used loading spinners, horizontal bars and more. |
