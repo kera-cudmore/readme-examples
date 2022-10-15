@@ -170,6 +170,7 @@ A list of resources that may be useful when completing your README.
 
 |  | Link | Description |
 | :---: |:--- | :--- |
+| <img src="https://user-images.githubusercontent.com/92253071/195999034-87a65cd6-15fa-4038-b9b3-9bc2249dcc6f.png" width="100" alt="drawSQL logo" /> | [drawSQL](https://drawsql.app/) | Simple, beautiful database diagram editor for developers to create, collaborate and visualize their entity relationship diagrams. |
 | <img src='documentation/resources/design/lucidchart.png' width='100' alt='Lucidchart Logo' /> | [Lucidchart](lucidchart.com/pages/landing?utm_source=google&utm_medium=cpc&utm_campaign=_chart_en_tier1_mixed_search_brand_exact_&km_CPC_CampaignId=1490375427&km_CPC_AdGroupID=55688909257&km_CPC_Keyword=lucidchart&km_CPC_MatchType=e&km_CPC_ExtensionID=&km_CPC_Network=g&km_CPC_AdPosition=&km_CPC_Creative=442433236001&km_CPC_TargetID=kwd-33511936169&km_CPC_Country=9045329&km_CPC_Device=c&km_CPC_placement=&km_CPC_target=&gclid=CjwKCAjwhNWZBhB_EiwAPzlhNk4UE5S6D47XQSncwqACfXUNmr7auFvJ3DXvt3XMqAX5cKDfew63kBoCF6YQAvD_BwE) | Create flowcharts & diagrams online |
 | <img src='documentation/resources/design/diagrams.png' width='100' alt='Diagrams.net Logo' /> | [Diagrams.net](https://app.diagrams.net/) | Free online diagram software. |
 | <img src='documentation/resources/design/wireflow.png' width='100' alt='Wireflow Logo' /> | [Wireflow](https://wireflow.co/) |A  free, online and open source tool for creating beautiful user flow prototypes. |
