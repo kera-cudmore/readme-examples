@@ -1,6 +1,6 @@
 ![Resources Banner](documentation/resources/resources.png)
 
-A list of resources that may be useful when completing your README, and some cool things that you can use in your projects 😊
+A list of resources that may be useful when completing your projects 😊
 
 # Contents
 
@@ -250,5 +250,5 @@ A list of resources that may be useful when completing your README, and some coo
 | :---: |:--- | :--- |
 | <img src='documentation/resources/other/amiresponsive.png' width='100' alt='Am I Responsive Site Image' /> | [Am I Responsive](https://ui.dev/amiresponsive) | Show off how responsive design looks across different browsers easily with this 4 in 1 viewport tool. See how your site looks on desktop, laptop, tablet & mobile. 💡 Tip: You can showcase different pages on each of the devices, simply use your navigation within the device to navigate to the page you want to display.|
 | <img src='documentation/resources/other/multidevicemockupgenerator.png' width='100' alt='Multi Device Mockup Generator Logo' /> | [Multi Device Mockup Generator](https://techsini.com/multi-mockup/index.php) | Multi device website mockup generator is free online tool to test your responsive website on apple devices including Apple iMac, Macbook, iPad and iPhone. |
-| <img src='documentation/resources/other/mediagenesis.png' width='100' alt='Media Genesis Logo' /> | [Media Genesis](https://responsivedesignchecker.com/medi) | Responsive web design checker. |
-| <img src='documentation/resources/other/browserstack.png' width='100' alt='Browserstack Responsive Logo' />| [BrowserStack](https://www.browserstack.com/) | Responsive design testing on real devices. |
+| <img src='documentation/resources/other/mediagenesis.png' width='100' alt='Media Genesis Logo' /> | [Media Genesis](https://responsivedesignchecker.com) | Responsive web design checker. |
+| <img src='documentation/resources/other/browserstack.png' width='100' alt='Browserstack Responsive Logo' />| [BrowserStack](https://www.browserstack.com/) | Responsive design testing on real devices. Note - this is a free trial and then may have to pay for. |
