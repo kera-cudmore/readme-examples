@@ -1,6 +1,6 @@
 ![Resources Banner](documentation/resources/resources.png)
 
-A list of resources that may be useful when completing your README.
+A list of resources that may be useful when completing your README, and some cool things that you can use in your projects 😊
 
 # Contents
 
@@ -98,6 +98,7 @@ A list of resources that may be useful when completing your README.
 | <img src='documentation/resources/royaltyfree/openpeeps.png' width='100' alt='Open Peeps Logo' /> | [Open Peeps](https://www.openpeeps.com/) | Open Peeps is a hand-drawn illustration library to create scenes of people.  |
 | <img src='documentation/resources/royaltyfree/reshot.png' width='100' alt='Reshot Logo' /> | [Reshot](https://www.reshot.com/) | Design freely with instant downloads of curated SVG icons and vector illustrations. All free with commercial licensing |
 | <img src='documentation/resources/royaltyfree/stockvault.png' width='100' alt='Stock Vault Logo' /> | [Stock Vault](https://www.stockvault.net/) | 139.637 free stock photos, textures, backgrounds and graphics for your next project. |
+| ![unDraw Logo](https://user-images.githubusercontent.com/92253071/199688423-38f80d4e-01f4-4416-bce0-5bdb89fa1e1f.png) | [unDraw](https://undraw.co/illustrations) | Open-source illustrations for any idea you can imagine and create. |
 
 
 ### **Photos**
