@@ -234,8 +234,11 @@ A list of resources that may be useful when completing your projects 😊
 
 |  | Link | Description |
 | :---: |:--- | :--- |
-| <img src='documentation/resources/other/shieldio.png' width='100' alt='Shields.io Logo' /> | [Shields.io](https://shields.io/) | fast and scalable informational images as badges for GitHub, Travis CI, Jenkins, WordPress and many more. |
-| <img src='documentation/resources/other/badgen.png' width='100' alt='Badgen Logo' /> | [Badgen](https://badgen.net/) | Fast handcraft svg badge generator. |
+| <img src='documentation/resources/other/badgen.png' width='100' alt='Badgen Logo' /> | [Badgen](https://badgen.net/) | Fast handcrafted svg badge generator. |
+| <img src='https://user-images.githubusercontent.com/92253071/224004246-f1907c2f-9367-4501-bbf1-40dd7219763f.png' width='100' alt='Contrib.rocks example of icons' /> |[Contrib.rocks](https://contrib.rocks/preview?repo=angular%2Fangular-ja) | Generate an image of contributors to keep your readme in sync. |
+| <img src='https://user-images.githubusercontent.com/92253071/224002325-48fae134-2c5e-46e0-ae1a-cca3d14eb63c.png' width='100' alt='For the Badge Logo' /> | [For the Badge](https://forthebadge.com/) | Badges for badges' sake |
+| <img src='documentation/resources/other/shieldio.png' width='100' alt='Shields.io Logo' /> | [Shields.io](https://shields.io/) | Fast and scalable informational images as badges for GitHub, Travis CI, Jenkins, WordPress and many more. |
+
 
 
 ### **File Conversion & Compression**
