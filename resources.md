@@ -71,10 +71,13 @@ A list of resources that may be useful when completing your projects 😊
 | <img src='documentation/resources/royaltyfree/coolbackgrounds.png' width='100' alt='Cool Backgrounds Logo' /> | [Cool Backgrounds](https://coolbackgrounds.io/) | A collection of tools to create compelling, colorful images for blogs, social media, and websites.  |
 | <img src='documentation/resources/royaltyfree/cssgradient.png' width='100' alt='CSS Gradient Logo' /> | [CSS Gradient](https://cssgradient.io/) | A free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile. |
 | <img src='documentation/resources/royaltyfree/getwaves.png' width='100' alt='Get Waves Logo' /> | [Get Waves](https://getwaves.io/) | A free SVG wave generator to make unique SVG waves for your next web design. Choose a curve, adjust complexity, randomize! |
+| | [Haikei](https://haikei.app/) | Generate unique SVG design assets |
+| | [Mesh.y](https://meshgradient.in/) | Generate beautiful mesh gradients |
 | <img src='documentation/resources/royaltyfree/particlejs.png' width='100' alt='Particle JS Logo' /> | [Particles.js](https://marcbruederlin.github.io/particles.js/) | particles.js is a lightweight JavaScript library for creating particles. |
 | <img src='documentation/resources/royaltyfree/patternpad.png' width='100' alt='Pattern Pad Logo' /> | [Pattern Pad](https://patternpad.com/) | PatternPad generates graphical patterns based on a variety of parameters. This results in an endless number of variations. |
 | <img src='documentation/resources/royaltyfree/rawpixel.png' width='100' alt='Rawpixel Logo' /> | [RawPixel](https://www.rawpixel.com/) | Free images, PNGs, stickers, backgrounds, wallpapers, graphic templates and PSD mockups. |
 | <img src='documentation/resources/royaltyfree/stockvault.png' width='100' alt='Stock Vault Logo' /> | [Stock Vault](https://www.stockvault.net/) | 139,637 free stock photos, textures, backgrounds and graphics for your next project. |
+| | [Super Designer](https://superdesigner.co/) |A collection of free design tools to create unique backgrounds, patterns, shapes, images, and more with just a few clicks |
 | <img src='documentation/resources/royaltyfree/vecteezy.png' width='100' alt='Vecteezy Logo' /> | [Vecteezy](https://www.vecteezy.com/?utm_source=google&utm_medium=cpa&utm_campaign=search&utm_term=freevectors&utm_content=a&gclid=CjwKCAjww8mWBhABEiwAl6-2RXu9c03gxX7SY7212DASIrPCgad0Xr_tQHkyVg7KACQy8GfrMp49ihoC3_gQAvD_BwE) | Explore royalty-free vectors, clipart graphics, icons, stock photos, stock videos, backgrounds, patterns, banners, and designs. |
 
 
@@ -263,3 +266,10 @@ A list of resources that may be useful when completing your projects 😊
 | <img src='documentation/resources/other/multidevicemockupgenerator.png' width='100' alt='Multi Device Mockup Generator Logo' /> | [Multi Device Mockup Generator](https://techsini.com/multi-mockup/index.php) | Multi device website mockup generator is free online tool to test your responsive website on apple devices including Apple iMac, Macbook, iPad and iPhone. |
 | <img src='documentation/resources/other/mediagenesis.png' width='100' alt='Media Genesis Logo' /> | [Media Genesis](https://responsivedesignchecker.com) | Responsive web design checker. |
 | <img src='documentation/resources/other/browserstack.png' width='100' alt='Browserstack Responsive Logo' />| [BrowserStack](https://www.browserstack.com/) | Responsive design testing on real devices. Note - this is a free trial and then may have to pay for. |
+
+
+### **Other**
+
+|  | Link | Description |
+| :---: |:--- | :--- |
+| | [Digital Samaritan](https://www.digitalsamaritan.co/) | Various useful digital tools |
