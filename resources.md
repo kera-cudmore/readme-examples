@@ -207,6 +207,7 @@ A list of resources that may be useful when completing your projects 😊
 |  | Link | Description |
 | :---: |:--- | :--- |
 | ⛔️ Currently Down | [PEP8Online](http://pep8online.com/) | This is online PEP8 checker. Just paste your code or upload file and see results. |
+| | [Code Insitute Python Linter](https://pep8ci.herokuapp.com/) | Code Institute PEP8 alternative python linter |
 
 
 ### **Lighthouse**
