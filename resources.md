@@ -221,7 +221,9 @@ A list of resources that may be useful when completing your projects 😊
 
 |  | Link | Description |
 | :---: |:--- | :--- |
+| | [Color.a11y](https://color.a11y.com/) | Free color contrast tool that displays color contrast issues of a web page or chosen color-pair per WCAG 2.1 Guidelines |
 | <img src='documentation/resources/testing/colourcontrastchecker.png' width='100' alt='Colour Contrast Checker' /> | [Colour Contrast Checker](https://www.siteimprove.com/toolkit/color-contrast-checker/) | This tool tests the contrast ratio of your background and text for accessibility. It will also indicate if the colors pass the WCAG contrast ratio. |
+| | [Randoma11y Color Contrast Generator](https://randoma11y.com/?color=white) | Get random, accessible color combinations and train the robots by voting. |
 | <img src='documentation/resources/testing/wave.png' width='100' alt='WAVE Logo' /> | [WAVE Website](https://wave.webaim.org/) | WAVE® is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content. |
 | <img src='documentation/resources/testing/wave.png' width='100' alt='WAVE Logo' /> | [WAVE Website](https://wave.webaim.org/) | [Wave Chrome Extension](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) | 🧩 Chrome Extension - WAVE for use directly in the browser. |
 
