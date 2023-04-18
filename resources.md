@@ -149,6 +149,7 @@ A list of resources that may be useful when completing your projects 😊
 | <img src='documentation/resources/design/colorspace.png' width='100' alt='ColorSpace' /> | [ColorSpace](https://mycolor.space/?hex=%23F5F5F5&sub=1) | Here you can find the perfect matching color scheme for your next project! Generate nice color palettes, color gradients and much more! |
 | <img src='documentation/resources/design/coolors.png' width='100' alt='Coolors Logo' /> | [Coolors](https://coolors.co/) | Generate or browse beautiful color combinations for your designs. |
 | <img src='documentation/resources/design/muzlicolors.png' width='100' alt='Muzli Colors Logo' /> | [Muzli Colors](https://colors.muz.li/) | Search, discover, test and create beautiful color palettes for your projects. |
+| | [Huemint](https://huemint.com/) | Utilises machine learning to create unique colour schemes. |
 
 
 ### **Typography**
