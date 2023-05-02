@@ -71,13 +71,13 @@ A list of resources that may be useful when completing your projects 😊
 | <img src='https://user-images.githubusercontent.com/92253071/235636126-980d9a2d-799d-4eb7-969f-e579b4f9d166.png' width='100' alt='Cool Backgrounds Logo' /> | [Cool Backgrounds](https://coolbackgrounds.io/) | A collection of tools to create compelling, colorful images for blogs, social media, and websites.  |
 | <img src='https://user-images.githubusercontent.com/92253071/235636219-4cbefaac-7381-47ec-a341-8b3a3c44d327.png' width='100' alt='CSS Gradient Logo' /> | [CSS Gradient](https://cssgradient.io/) | A free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile. |
 | <img src='https://user-images.githubusercontent.com/92253071/235636342-d59b6d4d-863a-42a8-a493-f60cd62f393c.png' width='100' alt='Get Waves Logo' /> | [Get Waves](https://getwaves.io/) | A free SVG wave generator to make unique SVG waves for your next web design. Choose a curve, adjust complexity, randomize! |
-| | [Haikei](https://haikei.app/) | Generate unique SVG design assets |
-| | [Mesh.y](https://meshgradient.in/) | Generate beautiful mesh gradients |
+| <img src="https://user-images.githubusercontent.com/92253071/235654456-f55da6ce-a880-4fbf-9381-2b55f54cff41.png" width="100" alt="haikai logo" /> | [Haikei](https://haikei.app/) | Generate unique SVG design assets |
+| <img src="https://user-images.githubusercontent.com/92253071/235654763-1865542a-1dc3-4080-90c8-9ca3fb05e49a.png" width="100" alt="Mesh.y Logo" /> | [Mesh.y](https://meshgradient.in/) | Generate beautiful mesh gradients |
 | <img src='https://user-images.githubusercontent.com/92253071/235636478-6826df01-0ddf-4e8c-9cef-c80af62d5ecc.png' width='100' alt='Particle JS Logo' /> | [Particles.js](https://marcbruederlin.github.io/particles.js/) | particles.js is a lightweight JavaScript library for creating particles. |
 | <img src='https://user-images.githubusercontent.com/92253071/235636565-9b1aede5-15a5-47c3-948e-3185bb55378f.png' width='100' alt='Pattern Pad Logo' /> | [Pattern Pad](https://patternpad.com/) | PatternPad generates graphical patterns based on a variety of parameters. This results in an endless number of variations. |
 | <img src='https://user-images.githubusercontent.com/92253071/235636668-b493f3e2-0373-4efd-abe7-8620f6609925.png' width='100' alt='Rawpixel Logo' /> | [RawPixel](https://www.rawpixel.com/) | Free images, PNGs, stickers, backgrounds, wallpapers, graphic templates and PSD mockups. |
 | <img src='https://user-images.githubusercontent.com/92253071/235636812-8e3dea82-b926-42d9-a869-0196ca4670c1.png' width='100' alt='Stock Vault Logo' /> | [Stock Vault](https://www.stockvault.net/) | 139,637 free stock photos, textures, backgrounds and graphics for your next project. |
-| | [Super Designer](https://superdesigner.co/) |A collection of free design tools to create unique backgrounds, patterns, shapes, images, and more with just a few clicks |
+| <img src="https://superdesigner.co/logo.svg" width="100" alt="superdesigner logo" /> | [Super Designer](https://superdesigner.co/) |A collection of free design tools to create unique backgrounds, patterns, shapes, images, and more with just a few clicks |
 | <img src='https://user-images.githubusercontent.com/92253071/235637743-ada279d7-e118-4d25-a253-e799e3b05534.png' width='100' alt='Vecteezy Logo' /> | [Vecteezy](https://www.vecteezy.com/?utm_source=google&utm_medium=cpa&utm_campaign=search&utm_term=freevectors&utm_content=a&gclid=CjwKCAjww8mWBhABEiwAl6-2RXu9c03gxX7SY7212DASIrPCgad0Xr_tQHkyVg7KACQy8GfrMp49ihoC3_gQAvD_BwE) | Explore royalty-free vectors, clipart graphics, icons, stock photos, stock videos, backgrounds, patterns, banners, and designs. |
 
 
@@ -151,7 +151,7 @@ A list of resources that may be useful when completing your projects 😊
 | <img src='https://user-images.githubusercontent.com/92253071/235651310-a329cf21-826e-4402-9ad2-530d7a93bf9b.png' width='100' alt='ColorSpace' /> | [ColorSpace](https://mycolor.space/?hex=%23F5F5F5&sub=1) | Here you can find the perfect matching color scheme for your next project! Generate nice color palettes, color gradients and much more! |
 | <img src='https://user-images.githubusercontent.com/92253071/235651375-b338ca50-f2e4-4087-b0d5-a79dac71b83b.png' width='100' alt='Coolors Logo' /> | [Coolors](https://coolors.co/) | Generate or browse beautiful color combinations for your designs. |
 | <img src='https://user-images.githubusercontent.com/92253071/235651431-8a0bfa78-050a-4051-8b0c-c47a76dfd91a.png' width='100' alt='Muzli Colors Logo' /> | [Muzli Colors](https://colors.muz.li/) | Search, discover, test and create beautiful color palettes for your projects. |
-| | [Huemint](https://huemint.com/) | Utilises machine learning to create unique colour schemes. |
+| <img src="https://huemint.com/assets/img/logo-icon.svg" width="100" alt="huemint logo" /> | [Huemint](https://huemint.com/) | Utilises machine learning to create unique colour schemes. |
 
 
 ### **Typography**
@@ -210,7 +210,7 @@ A list of resources that may be useful when completing your projects 😊
 |  | Link | Description |
 | :---: |:--- | :--- |
 | ⛔️ Currently Down | [PEP8Online](http://pep8online.com/) | This is online PEP8 checker. Just paste your code or upload file and see results. |
-| | [Code Insitute Python Linter](https://pep8ci.herokuapp.com/) | Code Institute PEP8 alternative python linter |
+| <img src="https://elearningindustry.com/wp-content/uploads/2017/01/5d4043a43d62325ed4dfa67d125976bc.png" width="100" alt="Code Institute Logo"> | [Code Insitute Python Linter](https://pep8ci.herokuapp.com/) | Code Institute PEP8 alternative python linter |
 
 
 ### **Lighthouse**
@@ -224,9 +224,9 @@ A list of resources that may be useful when completing your projects 😊
 
 |  | Link | Description |
 | :---: |:--- | :--- |
-| | [Color.a11y](https://color.a11y.com/) | Free color contrast tool that displays color contrast issues of a web page or chosen color-pair per WCAG 2.1 Guidelines |
+| <img src="https://color.a11y.com/image/mainlogo.png" width="100" alt="Color A11y Logo" /> | [Color.a11y](https://color.a11y.com/) | Free color contrast tool that displays color contrast issues of a web page or chosen color-pair per WCAG 2.1 Guidelines |
 | <img src='https://user-images.githubusercontent.com/92253071/235639259-bc3a9189-ce34-423a-a94d-bec445129ae2.png' width='100' alt='Colour Contrast Checker' /> | [Colour Contrast Checker](https://www.siteimprove.com/toolkit/color-contrast-checker/) | This tool tests the contrast ratio of your background and text for accessibility. It will also indicate if the colors pass the WCAG contrast ratio. |
-| | [Randoma11y Color Contrast Generator](https://randoma11y.com/?color=white) | Get random, accessible color combinations and train the robots by voting. |
+| <img src="https://www.desircledesign.com/wp-content/uploads/2022/11/Randoma11y-1.jpg" width="100" alt="randoma11y site" /> | [Randoma11y Color Contrast Generator](https://randoma11y.com/?color=white) | Get random, accessible color combinations and train the robots by voting. |
 | <img src='https://user-images.githubusercontent.com/92253071/235639361-4a108669-546f-48b7-aac3-5d826a87756b.png' width='100' alt='WAVE Logo' /> | [WAVE Website](https://wave.webaim.org/) | WAVE® is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. WAVE can identify many accessibility and Web Content Accessibility Guideline (WCAG) errors, but also facilitates human evaluation of web content. |
 | <img src='https://user-images.githubusercontent.com/92253071/235639361-4a108669-546f-48b7-aac3-5d826a87756b.png' width='100' alt='WAVE Logo' /> | [WAVE Website](https://wave.webaim.org/) | [Wave Chrome Extension](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) | 🧩 Chrome Extension - WAVE for use directly in the browser. |
 
@@ -271,4 +271,4 @@ A list of resources that may be useful when completing your projects 😊
 
 |  | Link | Description |
 | :---: |:--- | :--- |
-| | [Digital Samaritan](https://www.digitalsamaritan.co/) | Various useful digital tools |
+| <img src="https://softr-prod.imgix.net/applications/b9f49e76-e4e1-44fe-b9aa-6adcc3bb5eb7/assets/eef922bd-5e72-460a-8479-5a19bca73939.png" width="100" alt="Digital Samaritan Logo"> | [Digital Samaritan](https://www.digitalsamaritan.co/) | Various useful digital tools |
