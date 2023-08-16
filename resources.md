@@ -58,6 +58,7 @@ A list of resources that may be useful when completing your projects 😊
 | :---: |:--- | :--- |
 | <img src='https://user-images.githubusercontent.com/92253071/235635322-7f2026db-08eb-4115-a9d1-5cb3dbd9ccd5.png' width='100' alt='Audio Micro Logo' /> | [Audio Micro](https://www.audiomicro.com/free-sound-effects/) | Royalty Free stock music for any project. |
 | <img src='https://user-images.githubusercontent.com/92253071/235635435-f71e2b91-e82f-448f-97fc-c48cee04878d.png' width='100' alt='Pixabay Logo' /> | [Pixabay](https://pixabay.com) | Pixabay is a vibrant community of creatives, sharing copyright free images, videos and music. |
+| <img src="https://imgix.uppbeat.io/images/logo/logo-marque.svg?w=256&q=50&fit=max&auto=format%2Ccompress" width="100" alt="uppbeat logo" />| [uppbeat](https://uppbeat.io/) | Free music for creators |
 | <img src='https://user-images.githubusercontent.com/92253071/235635628-5874ce8d-bd42-465d-8ec9-da07ab390c29.png' width='100' alt='Videvo Logo' /> | [Videvo](https://www.videvo.net/) | Royalty Free Music. Thousands of royalty-free stock music tracks at your fingertips. |
 | <img src='https://user-images.githubusercontent.com/92253071/235635787-02274c55-f6aa-4a79-ac2f-186b2cd14b4e.png' width='100' alt='Zapsplat Logo' /> | [Zapsplat](https://www.zapsplat.com/) | Over 111,000 free sound effects & more than 450 royalty free music tracks. |
 
