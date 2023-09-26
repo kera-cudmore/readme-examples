@@ -160,6 +160,7 @@ A list of resources that may be useful when completing your projects 😊
 |  | Link | Description |
 | :---: |:--- | :--- |
 | <img src='https://user-images.githubusercontent.com/92253071/235651541-066a4d1d-362e-4d09-9ff0-58affb1582ad.png' width='100' alt='Font Joy' /> | [Font Joy](https://fontjoy.com/) | Fontjoy helps designers choose the best font combinations. Mix and match different fonts for the perfect pairing. |
+| <img src='https://global-uploads.webflow.com/6262d15e87c1ba75ee7ce234/627050be7639a5581d88d992_fp-badge-256.svg' width='100' height='100' alt='Fontpair Logo' /> | [Fontpair](https://www.fontpair.co/) | Free fonts and font pairings to use in your next project. |
 | <img src='https://user-images.githubusercontent.com/92253071/235651593-e7db65f3-687a-4940-b4e8-08028ad5ef6e.png' width='100' alt='Google Fonts Logo' /> | [Google Fonts](https://fonts.google.com/) | Google Fonts is a library of 1,453 open source font families and APIs for convenient use via CSS and Android. |
 | <img src='https://user-images.githubusercontent.com/92253071/235651650-770aacf6-3c44-4064-9352-cb639366375f.png' width='100' alt='Typesource Logo' /> | [TypeSource](https://tobiasahlin.com/typesource/) | Google Web Font inspiration in HTML & CSS |
 
